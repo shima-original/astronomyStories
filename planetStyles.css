@@ -45,6 +45,11 @@ body{
     border-radius: 7%/15%;
     font-size: 1.3em;
 }
+
+ @media screen and (max-width: 600px) {
+     
+   }
+
 .mainH{
     font-size: 2em;
 }
